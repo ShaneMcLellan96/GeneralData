@@ -8,11 +8,11 @@ This repository is used for practicing Git and GitHub workflows as part of my in
 * Practice commits
 * Future project work
 
-## Author
+## 
 
-Shane McLellan
+Author
 
-
+Shane McLellan  
 
 Date: April 13, 2026
 
